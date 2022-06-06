@@ -13,7 +13,7 @@ class Time extends Controller
         $current_time=new date();
 
         $difference=$current_time - $time;
-        echo $difference
+        echo $difference;
     }
 }
 
