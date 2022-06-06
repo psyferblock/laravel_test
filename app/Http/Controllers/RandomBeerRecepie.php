@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Http;
 
 
-class RandomBeerRecipe extends Controller
+class RandomBeerRecipe extends Controller;
 {
     //
     public function RandomRecipe(){
